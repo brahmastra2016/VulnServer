@@ -2,7 +2,7 @@
 """
 Description: VulnServer "TRUN" Buffer Overflow w/ DEP Bypass (limited use-case)
 Author: Cody Winkler
-Contact: @c2thewinkler (twitter)
+Contact: @cwinfosec (twitter)
 Date: 12/18/2019
 Tested On: Windows 10 x64 (wow64)
 

@@ -2,7 +2,7 @@
 """
 Description: Buffer Overflow via "GMON" (SEH) in VulnServer
 Author: Cody Winkler
-Contact: @c2thewinkler (twitter)
+Contact: @cwinfosec (twitter)
 Date: 1/25/2020
 Tested On: Windows 7 SP1 (EN) x64 (wow64)
 

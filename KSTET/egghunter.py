@@ -2,7 +2,7 @@
 """
 Description: Vanilla Buffer Overflow w/ egghunter via "KSTET" in VulnServer
 Author: Cody Winkler
-Contact: @c2thewinkler (twitter)
+Contact: @cwinfosec (twitter)
 Date: 10/10/2019
 Tested On: Windows XP SP2 EN
 

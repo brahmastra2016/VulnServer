@@ -2,7 +2,7 @@
 """
 Description: Vanilla Buffer Overflow w/ socket reuse via "KSTET" in VulnServer
 Author: Cody Winkler
-Contact: @c2thewinkler (twitter)
+Contact: @cwinfosec (twitter)
 Date: 10/15/2019
 Tested On: Windows XP SP2 EN
 
